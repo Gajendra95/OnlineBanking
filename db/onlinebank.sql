@@ -1,5 +1,5 @@
 CREATE DATABASE  IF NOT EXISTS `onlinebanking` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `onlinebanking`;
+USE `soisdb`;
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
 -- Host: 192.168.99.100    Database: onlinebanking
