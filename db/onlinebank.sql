@@ -1,4 +1,4 @@
-CREATE DATABASE  IF NOT EXISTS `onlinebanking` /*!40100 DEFAULT CHARACTER SET latin1 */;
+CREATE DATABASE  IF NOT EXISTS `soisdb` /*!40100 DEFAULT CHARACTER SET latin1 */;
 USE `soisdb`;
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
